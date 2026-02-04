@@ -1,7 +1,6 @@
-# Hey, I'm Aaron Augustin 👋🏽
-I'm a **Junior Developer** interested in coding, problem-solving, and web development.
-I have an expertise in **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) + [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [Javascript](), [Node.js](https://github.com/nodejs/node), [React.js](https://github.com/facebook/react), & [Haxe](https://github.com/HaxeFoundation/haxe)**.
-Additionally, I have a creative side, and occasionally dabble in **2D Animation** using **[Adobe Animate](https://www.adobe.com/products/animate.html)**. Through my work, I have developed skills in software developemnt, frontend / backend programming, and API integrations. I enjoy solving challenges, developing my coding skills further, and creating innovative solutions. My goal is to continue growing as a developer & animator and produce effective, well-designed digital experiences.
+# Hey, I'm Animating Legend 👋🏽
+This is my **personal account** where i work on personal projects, and contribute to obscure GitHub Repos.
+If you want to see the **bigger** projects i've worked on, the you should check out my other account [Aaron Augustin](https://github.com/AaronAugustin) :)
 
 ## My Website! 💻
-For more information on the projects / animations i worked on, visit **[animatinglegend.github.io](https://animatinglegend.github.io/)**.
+Visit **[animatinglegend.github.io](https://animatinglegend.github.io/)** if you want to see the projects i worked on on this account :).
