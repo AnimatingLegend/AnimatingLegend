@@ -45,3 +45,5 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnimatingLegend&bg_color=2f2f2f&color=ffffff&line=2864ee&point=4fbdff&area=true&hide_border=true" alt="Ashutosh's github activity graph">
 </a>
+
+<h4>Thanks for visiting! ദ്ദി◝ ⩊ ◜)</h4>
