@@ -32,14 +32,14 @@
 <div align="center">
   <!-- percentage -->
   <a href="https://github.com/Animatinglegend">
-    <img src="https://github-stats-extended.vercel.app/api?username=AnimatingLegend&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true" alt="GitHub Stats" height="150" />
+    <img src="https://github-stats-extended.vercel.app/api?username=AnimatingLegend&custom_title=Legend%27s%20Git%20Statistics&show_icons=true&include_all_commits=true&theme=github_dark_dimmed" alt="GitHub Stats" height="150" />
   </a>
   
-  <br> <br>
+  <br>
 
   <!-- commit graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnimatingLegend&bg_color=2f2f2f&color=ffffff&line=2864ee&point=4fbdff&area=true&hide_border=true" alt="Ashutosh's github activity graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnimatingLegend&bg_color=24292f&color=adbac7&line=adbac7&point=539bf5&area=true&hide_border=true" alt="Ashutosh's github activity graph">
   </a>
 </div>
 
